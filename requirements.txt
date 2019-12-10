@@ -41,7 +41,7 @@ PyJWT==1.5.3
 python-dateutil==2.6.1
 python-gcm==0.4
 pytz==2018.5
-requests==2.18.4
+requests==2.20.0
 requests-toolbelt==0.8.0
 Rx==1.6.0
 singledispatch==3.4.0.3
