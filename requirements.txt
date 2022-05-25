@@ -37,7 +37,7 @@ passlib==1.7.1
 promise==2.1
 psycopg2==2.7.3.2
 pyfcm==1.4.5
-PyJWT==1.5.3
+PyJWT==2.4.0
 python-dateutil==2.6.1
 python-gcm==0.4
 pytz==2018.5
